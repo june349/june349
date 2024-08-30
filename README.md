@@ -1,2 +1,3 @@
-# Hello! I'm June. ☁️
-I'm a novice programmer who loves learning new things :p
+# hello! i'm june. ☁️
+- foss enjoyer
+- novice programmer :p
